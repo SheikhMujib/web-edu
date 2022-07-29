@@ -4,6 +4,9 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+.carousel-item{
+    min-height: 300px;
+}
 
 .carousel-item::before {
     content: "";
